@@ -1,0 +1,6 @@
+[submodule "void_switch"]
+	path = void_switch
+	url = https://github.com/gutterwock/void_switch.git
+[submodule "scad-utils"]
+	path = scad-utils
+	url = https://github.com/gutterwock/scad-utils.git
